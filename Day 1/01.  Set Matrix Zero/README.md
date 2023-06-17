@@ -1,18 +1,7 @@
 **73. Set Matrix Zeroes**
 
-**Medium**
-
-11788
-
-629
-
-Add to List
-
-Share
-
 Given an `m x n` integer matrix `matrix`, if an element is `0`, set its entire row and column to `0`'s.
-
-You must do it [in place](https://en.wikipedia.org/wiki/In-place_algorithm).
+[in place](https://en.wikipedia.org/wiki/In-place_algorithm).
 
 **Example 1:**
 
