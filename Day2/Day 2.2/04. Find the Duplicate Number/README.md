@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the dup;icate Number</a></h1>
+<h1><a href="https://leetcode.com/problems/find-the-duplicate-number/">Find the duplicate Number</a></h1>
 
 Given an array of integers `nums` containing `n + 1` integers where each integer is in the range `[1, n]` inclusive.
 
