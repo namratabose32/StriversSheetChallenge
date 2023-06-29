@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/powx-n/"></a>Pow(x,n)</h2>
+<h2><a href="https://leetcode.com/problems/powx-n/">Pow(x,n)</a></h2>
 
 Implement [pow(x, n)](http://www.cplusplus.com/reference/valarray/pow/), which calculates `x` raised to the power `n` (i.e., `xn`).
 
