@@ -1,4 +1,4 @@
-<h2><a href="https://www.codingninjas.com/studio/problems/count-inversions_615?leftPanelTab=0"></a></h2>
+<h2><a href="https://www.codingninjas.com/studio/problems/count-inversions_615?leftPanelTab=0">Count Inversion</a></h2>
 
 Problem Statement
 
