@@ -1,0 +1,22 @@
+
+//Solution using c++ stl
+class Solution {
+public:
+    double myPow(double x, int n) {
+        return pow(x,n);
+    }
+};
+
+// Solution 2
+class Solution {
+public:
+    double myPow(double x, int n) {
+        double res=1.0;
+        while(n!=0){
+            if(n%2)
+                res=(n>0)?res*x:res/x;
+            x*=x;
+            n/=2;
+        }return res;
+    }
+};
